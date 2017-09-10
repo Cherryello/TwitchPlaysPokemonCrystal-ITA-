@@ -7,7 +7,7 @@
 	sudo make install
 	cd ..
 
-	git clone --recursive git://github.com/Cherryello/TPPCrystalITA.git
+	git clone --recursive git://github.com/Cherryello/TwitchPlaysPokemonCrystal-ITA-.git
 	cd pokecrystal
 
 Per compilare **pokecrystal.gbc**:
@@ -30,7 +30,7 @@ Nella shell esegui:
 	sudo make install
 	cd ..
 
-	git clone --recursive git://github.com/Cherryello/TPPCrystalITA.git
+	git clone --recursive git://github.com/Cherryello/TwitchPlaysPokemonCrystal-ITA-.git
 	cd pokecrystal
 
 Per compilare **pokecrystal.gbc**:
@@ -39,6 +39,10 @@ Per compilare **pokecrystal.gbc**:
 
 
 # Windows
+
+* **Nota del traduttore**: qui consiglia di utilizzare pip e l'ultima versione di rgbds. Io non ho mai utilizzato pip e, per quanto riguarda le hack rom di Cristallo (ad eccezione di Prism), ho sempre dovuto utilizzare rgbds 0.2.5, disponibile sempre allo stesso link qui sotto riportato.
+
+----------------------------------
 
 Per compilare su Windows, usa [**Cygwin**](http://cygwin.com/install.html) (32-bit).
 
@@ -57,7 +61,7 @@ Metti `rgbasm.exe`, `rgblink.exe` e `rgbfix.exe` in `C:\cygwin\usr\local\bin`.
 
 Nel **terminale di Cygwin**:
 
-	git clone --recursive git://github.com/Cherryello/TPPCrystalITA.git
+	git clone --recursive git://github.com/Cherryello/TwitchPlaysPokemonCrystal-ITA-.git
 	cd pokecrystal
 
 Per compilare:
@@ -80,7 +84,7 @@ VirtualBox. Segui i procedimenti sottostanti:
 	cd vagrantbox
 	vagrant init pokecrystal
 	vagrant up
-	vagrant ssh -c "cd /vagrant && git clone --recursive git://github.com/Cherryello/TPPCrystalITA.git"
+	vagrant ssh -c "cd /vagrant && git clone --recursive git://github.com/Cherryello/TwitchPlaysPokemonCrystal-ITA-.git"
 	vagrant ssh
 ```
 
