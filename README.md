@@ -14,7 +14,7 @@ Per poter compilare questo repository, vedi il [**documento**](INSTALL.md) sull'
 * Telegram: [**Gruppo Ufficiale della Traduzione**][tgram]
 
 ------------------------------
-E se il lavoro vi sta piacendo, potete anche offrirmi un piccolo [**caffè**][kaffèé]. Grazie :)
+E se il lavoro vi sta piacendo, potete anche offrirmi un piccolo [**caffè**][kaffèé]. Grazie :')
 
 [pokered]: https://github.com/iimarckus/pokered
 [pokecrystal]: https://github.com/pret/pokecrystal
