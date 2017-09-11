@@ -3,7 +3,7 @@
 
 Questo è un disassembly modificato di Pokémon Cristallo [USA], creato per  TwitchPlaysPokemon e attualmente io, Cherryello, sto lavorando alla sua traduzione.
 
-Per poter compilare questo repository, vedi il [**documento**](INSTALL.md) sull'installazione.
+Per poter compilare questo repository, vedi l'[**INSTALL.md**](INSTALL.md).
 
 
 ## Potrebbero anche interessarti:
