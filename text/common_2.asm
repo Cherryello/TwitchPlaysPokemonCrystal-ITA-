@@ -1,5 +1,5 @@
 _FruitBearingTreeText: ; 0x1bc000
-	text "È un albero da"
+	text "é un albero da"
 	line "frutta."
 	done
 ; 0x1bc01c
@@ -358,39 +358,39 @@ UnknownText_0x1bc51c: ; 0x1bc51c
 ; 0x1bc546
 
 UnknownText_0x1bc546: ; 0x1bc546
-	text "È già stato"
+	text "é già stato"
 	line "impostato."
 	prompt
 ; 0x1bc55d
 
 UnknownText_0x1bc55d: ; 0x1bc55d
-	text "È la Mappa Città."
+	text "é la Mappa Città."
 	done
 ; 0x1bc570
 
 UnknownText_0x1bc570: ; 0x1bc570
-	text "È un poster di un"
+	text "é un poster di un"
 	line "Pikachu molto ca-"
 	cont "rino."
 	done
 ; 0x1bc591
 
 UnknownText_0x1bc591: ; 0x1bc591
-	text "È un poster di un"
+	text "é un poster di un"
 	line "Clefairy molto ca-"
 	cont "rino."
 	done
 ; 0x1bc5b3
 
 UnknownText_0x1bc5b3: ; 0x1bc5b3
-	text "È un poster di un"
+	text "é un poster di un"
 	line "Jigglypuff molto"
 	cont "carino."
 	done
 ; 0x1bc5d7
 
 UnknownText_0x1bc5d7: ; 0x1bc5d7
-	text "È un adorabile"
+	text "é un adorabile"
 	line "@"
 	text_from_ram StringBuffer3
 	text "."
@@ -399,7 +399,7 @@ UnknownText_0x1bc5d7: ; 0x1bc5d7
 
 UnknownText_0x1bc5ef: ; 0x1bc5ef
 	text "Un peluche enorme!"
-	line "È molto soffice."
+	line "é molto soffice."
 	done
 ; 0x1bc615
 
@@ -424,7 +424,7 @@ UnknownText_0x1bc64e: ; 0x1bc64e
 ; 0x1bc673
 
 UnknownText_0x1bc673: ; 0x1bc673
-	text "È nel tuo PC."
+	text "é nel tuo PC."
 	line "Ti piacerà!"
 	done
 ; 0x1bc693
@@ -439,7 +439,7 @@ UnknownText_0x1bc693: ; 0x1bc693
 ; 0x1bc6c7
 
 UnknownText_0x1bc6c7: ; 0x1bc6c7
-	text "È in camera tua."
+	text "é in camera tua."
 	line "Ti piacerà!"
 	done
 ; 0x1bc6e9
@@ -1340,7 +1340,7 @@ _WhosThatPkmnText8:
 
 _WhosThatPkmnText9:
 	text ""
-	line "È @"
+	line "é @"
 	TX_RAM StringBuffer1
 	text "!"
 	done
@@ -1495,7 +1495,7 @@ UnknownText_0x1bd188: ; 0x1bd188
 ; 0x1bd19a
 
 UnknownText_0x1bd19a: ; 0x1bd19a
-	text "È arrivata una"
+	text "é arrivata una"
 	line "nuova carta"
 	cont "da @"
 	text_from_ram StringBuffer2
@@ -1591,13 +1591,13 @@ UnknownText_0x1bd2e7: ; 0x1bd2e7
 ; 0x1bd308
 
 UnknownText_0x1bd308: ; 0x1bd308
-	text "È finito l'effetto"
+	text "é finito l'effetto"
 	line "del Repellente."
 	done
 ; 0x1bd321
 
 _UseAnotherRepelText:
-	text "È finito l'effetto"
+	text "é finito l'effetto"
 	line "del Repellente."
 
 	para "Vuoi usarne un"
@@ -1773,7 +1773,7 @@ UnknownText_0x1bd5a1: ; 0x1bd5a1
 	text "Non hai un"
 	line "@"
 	text_from_ram StringBuffer1
-	text "? È un"
+	text "? é un"
 	cont "peccato, ma vabbé."
 	done
 ; 0x1bd5cc
@@ -1960,7 +1960,7 @@ UnknownText_0x1bd9ba: ; 0x1bd9ba
 ; 0x1bd9d7
 
 UnknownText_0x1bd9d7: ; 0x1bd9d7
-	text "È meglio che non"
+	text "é meglio che non"
 	line "porti con te così"
 	cont "tanti soldi!"
 	prompt
@@ -2012,27 +2012,34 @@ UnknownText_0x1bdaa7: ; 0x1bdaa7
 ; 0x1bdaa9
 
 UnknownText_0x1bdaa9: ; 0x1bdaa9
-	text "Sono l'anziano del-"
-	line "la pensione. Vuoi"
-	cont "che allevi uno dei"
+	text "Sono l'anziano"
+	line "della pensione."
+
+	para "Vuoi che"
+	line "allevi uno dei" 
 	cont "tuoi #mon?"
 	done
 ; 0x1bdad8
 
 UnknownText_0x1bdad8: ; 0x1bdad8
-	text "Sono l'anziano del-"
-	line "la pensione. Hai"
-	cont "mai sentito par-"
-	cont "lare delle uova?"
+	text "Sono l'anziano"
+	line "della pensione."
+
+	para "Hai mai sentito"
+	line "parlare delle"
+	cont "uova #mon?"
 
 	para "Stavo allevando"
 	line "dei #mon con"
-	cont "mia moglie, quan-"
-    cont "do all'improvviso"
-	cont "abbiamo trovato"
-	cont "un uovo!"
+	cont "mia moglie, come"
+    cont "al solito."
 
-	para "Incredibile, vero?"
+	para "Ci impressionammo"
+	line "moltissimo quando"
+	cont "trovammo un uovo!"
+
+	para "È incredibile,"
+	line "vero?"
 
 	para "Allora, vuoi che"
 	line "allevi uno dei" 
@@ -2041,27 +2048,29 @@ UnknownText_0x1bdad8: ; 0x1bdad8
 ; 0x1bdb85
 
 UnknownText_0x1bdb85: ; 0x1bdb85
-	text "Sono l'anziana del-"
-	line "la pensione."
+	text "Sono l'anziana"
+	line "della pensione."
 
-	para "Vuoi che"
-	line "allevi uno dei" 
-	cont "tuoi #mon?"
+	para "Vuoi che allevi"
+	line "uno dei tuoi" 
+	cont "#mon?"
 	done
 ; 0x1bdbbb
 
 UnknownText_0x1bdbbb: ; 0x1bdbbb
-	text "Sono l'anziana del-"
-	line "la pensione. Hai"
-	cont "mai sentito par-"
-	cont "lare delle uova?"
+	text "Sono l'anziana"
+	line "della pensione."
+	
+	para "Hai mai sentito"
+	line "parlare delle"
+	cont "uova #mon?"
 
 	para "Stavo allevando"
 	line "dei #mon con"
 	cont "mio marito, quan-"
     cont "do all'improvviso"
-	cont "abbiamo trovato"
-	cont "un uovo!"
+	cont "ne abbiamo trovato"
+	cont "uno!"
 
 	para "Incredibile, vero?"
 
@@ -2091,7 +2100,7 @@ UnknownText_0x1bdcb8: ; 0x1bdcb8
 ; 0x1bdcda
 
 UnknownText_0x1bdcda: ; 0x1bdcda
-	text "Togli il messaggio"
+	text "Togli la lettera"
 	line "prima di consegna-"
 	cont "rmelo."
 	prompt
@@ -2133,7 +2142,7 @@ UnknownText_0x1bdd96: ; 0x1bdd96
 	text ""
 	line "é cresciuto molto."
 
-	para "È salito di @"
+	para "é salito di @"
 	deciram StringBuffer2 + 1, $13
 	text "."
 
@@ -2161,11 +2170,12 @@ UnknownText_0x1bde1f: ; 0x1bde1f
 
 UnknownText_0x1bde32: ; 0x1bde32
 	text "Uh? Rieccoti."
-	line "@"
+	line "Il tuo @"
 	text_from_ram StringBuffer1
 	text $51
 	db "ha bisogno di un"
-	line "altro po'."
+	line "altro po' di"
+	cont "tempo."
 
 	para "Se rivuoi il tuo"
 	line "#mon, ti verrà"
