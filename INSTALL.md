@@ -40,7 +40,7 @@ Per compilare **pokecrystal.gbc**:
 
 # Windows
 
-* **Nota del traduttore**: qui consiglia di utilizzare pip e l'ultima versione di rgbds. Io non ho mai utilizzato pip e, per quanto riguarda le hack rom di Cristallo (ad eccezione di Prism), ho sempre dovuto utilizzare rgbds 0.2.5, disponibile sempre allo stesso link qui sotto riportato. Io inoltre ho installato Cygwin64bit e va tutto come deve.
+* **Nota del traduttore**: qui consiglia di utilizzare pip e l'ultima versione di rgbds. Io non ho mai utilizzato pip, mi sono limitato semplicemente ad installare Cygwin e, per quanto riguarda le hack rom di Cristallo (ad eccezione di Prism), ho sempre dovuto utilizzare rgbds 0.2.5, disponibile sempre allo stesso link qui sotto riportato. Io inoltre ho installato la versione a 64 bit di Cygwin e tutto va come deve.
 
 ----------------------------------
 
