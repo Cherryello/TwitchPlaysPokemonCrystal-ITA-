@@ -935,13 +935,13 @@ UnknownText_0x78469: ; 0x78469
 
 	para "Rendono Chansey e"
 	line "Ditto ancora più"
-	cont "potenti."
+	cont "forti."
 	done
 ; 0x7849b
 
 CamperTodd1SeenText: ; 0x7849b
 	text "Sono molto sicuro"
-	line "delle mie capicità"
+	line "delle mie capacità"
 	cont "di allenatore di"
 	cont "#mon."
 
@@ -1000,24 +1000,24 @@ UnknownText_0x785b8: ; 0x785b8
 ; 0x785e4
 
 UnknownText_0x785e4: ; 0x785e4
-	text "Who goes there?"
-	line "What are you up"
-	cont "to?"
+	text "Chi va là?"
+	line "Dove stai andando"
+	cont "a quest'ora, eh?"
 	done
 ; 0x78609
 
 UnknownText_0x78609: ; 0x78609
-	text "You're a tough"
-	line "little kid."
+	text "Non sei grande, ma"
+	line "sei davvero forte."
 	done
 ; 0x78624
 
 UnknownText_0x78624: ; 0x78624
-	text "Yep, I see nothing"
-	line "wrong today. You"
+	text "Oggi é tutto"
+	line "tranquillo."
 
-	para "be good and stay"
-	line "out of trouble."
+	para "Non preoccuparti,"
+	line "sei al sicuro."
 	done
 ; 0x7866a
 
@@ -1034,19 +1034,19 @@ PokefanmBrandonSeenText: ; 0x78696
 	cont "lotte #mon."
 
 	para "Questi non sono"
-	line "i miei #mon, ad"
-	cont "essere onesto!"
+	line "i miei #mon,"
+	cont "quindi!"
 	done
 ; 0x786e1
 
 PokefanmBrandonBeatenText: ; 0x786e1
-	text "Papà: La prossima"
-	line "volta userò i"
-	cont "miei #mon<...>"
+	text "La prossima volta"
+	line "userò i miei"
+	cont "#mon<...>"
 
 	para "Figlio: Ma questi"
-	line "non sono i miei"
-	cont "#mon, papà<...>"
+	line "sono i tuoi #-"
+	cont "mon, papà<...>"
 
 	para "Papà: <...>"
 	done
@@ -1067,26 +1067,26 @@ UnknownText_0x786fc: ; 0x786fc
 ; 0x78743
 
 CooltrainerfIreneSeenText: ; 0x78743
-	text "IRENE: Kyaaah!"
+	text "Irene: Kyaaah!"
 	line "Someone found us!"
 	done
 ; 0x78765
 
 CooltrainerfIreneBeatenText: ; 0x78765
-	text "IRENE: Ohhh!"
+	text "Irene: Ohhh!"
 	line "Too hot!"
 	done
 ; 0x7877f
 
 UnknownText_0x7877f: ; 0x7877f
-	text "IRENE: My sister"
-	line "KATE will get you"
+	text "Irene: My sister"
+	line "Kate will get you"
 	cont "for this!"
 	done
 ; 0x787ad
 
 UnknownText_0x787ad: ; 0x787ad
-	text "IRENE: I'm so hot"
+	text "Irene: I'm so hot"
 	line "it's like my fists"
 	cont "are on fire."
 
@@ -1097,54 +1097,54 @@ UnknownText_0x787ad: ; 0x787ad
 ; 0x787eb
 
 CooltrainerfJennSeenText: ; 0x787eb
-	text "JENN: You can't"
-	line "beat IRENE and go"
+	text "Jenn: You can't"
+	line "beat Irene and go"
 	cont "unpunished!"
 	done
 ; 0x78819
 
 CooltrainerfJennBeatenText: ; 0x78819
-	text "JENN: So sorry,"
-	line "IRENE! Sis!"
+	text "Jenn: So sorry,"
+	line "Irene! Sis!"
 	done
 ; 0x78836
 
 UnknownText_0x78836: ; 0x78836
-	text "JENN: Don't get"
+	text "Jenn: Don't get"
 	line "cocky! My sister"
-	cont "KATE is tough!"
+	cont "Kate is tough!"
 	done
 ; 0x78866
 
 UnknownText_0x78866: ; 0x78866
-	text "JENN: Strike hard!"
+	text "Jenn: Strike hard!"
 
 	para "Fast!"
 
 	para "Like lightning!"
 
 	para "For ¥5000 your"
-	line "#MON can too."
+	line "#mon can too."
 	cont "Well?"
 	done
 ; 0x78890
 
 CooltrainerfKateSeenText: ; 0x78890
-	text "KATE: You sure"
+	text "Kate: You sure"
 	line "were mean to my"
 	cont "little sisters!"
 	done
 ; 0x788c0
 
 CooltrainerfKateBeatenText: ; 0x788c0
-	text "KATE: No! I can't"
+	text "Kate: No! I can't"
 	line "believe we lost."
 	done
 ; 0x788e2
 
 UnknownText_0x788e2: ; 0x788e2
-	text "KATE: Oh, you're"
-	line "just a #MON"
+	text "Kate: Oh, you're"
+	line "just a #mon"
 	cont "trainer?"
 
 	para "I thought you were"
@@ -1155,19 +1155,19 @@ UnknownText_0x788e2: ; 0x788e2
 	cont "arts in secret,"
 	cont "but so far we only"
 	cont "taught our"
-	cont "#MON<...>"
+	cont "#mon<...>"
 
 	para "Say<...>"
 
 	para "If you bring us"
 	line "some snack money"
 	cont "we can teach your"
-	cont "#MON too."
+	cont "#mon too."
 	done
 ; 0x7892b
 
 UnknownText_0x7892b: ; 0x7892b
-	text "KATE: I'm so cool"
+	text "Kate: I'm so cool"
 	line "it's like my hands"
 	cont "are ice."
 
@@ -1190,6 +1190,7 @@ UnknownText_0x789a8: ; 0x789a8
 	line "Azalina"
 
 	para "Bosco di Lecci"
+	line "nel mezzo"
 	done
 ; 0x789ed
 

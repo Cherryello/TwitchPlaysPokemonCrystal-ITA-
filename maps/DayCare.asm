@@ -31,7 +31,6 @@ GrampsScript_0x62f8f: ; 0x62f8f
 	iftrue UnknownScript_0x62fbd
 	writetext UnknownText_0x630ce
 	buttonsound
-	closetext
 	checkcode VAR_PARTYCOUNT
 	if_equal $6, UnknownScript_0x62fb6
 	special Function117656
@@ -84,8 +83,8 @@ MapDayCareSignpost1Script: ; 0x62fd7
 ; 0x62fda
 
 UnknownText_0x62fda: ; 0x62fda
-	text "Gramps was looking"
-	line "for you."
+	text "Mio marito ti"
+	line "cercava."
 	done
 ; 0x62ff7
 
@@ -114,59 +113,64 @@ UnknownText_0x62fda: ; 0x62fda
 ; 0x630ce
 
 UnknownText_0x630ce: ; 0x630ce
-	text "I'm the DAY-CARE"
-	line "MAN."
+	text "Sono l'anziano"
+	line "della pensione."
 
-	para "Do you know about"
-	line "EGGS?"
+	para "Hai mai sentito"
+	line "parlare delle"
+	cont "uova #mon?"
 
-	para "I was raising"
-	line "#MON with my"
-	cont "wife, you see."
+	para "Stavo allevando"
+	line "dei #mon con"
+	cont "mia moglie, come"
+    cont "al solito."
 
-	para "We were shocked to"
-	line "find an EGG!"
+	para "Ci impressionammo"
+	line "moltissimo quando"
+	cont "trovammo un uovo!"
 
-	para "How incredible is"
-	line "that?"
+	para "È incredibile,"
+	line "vero?"
 
-	para "Well, wouldn't you"
-	line "like this EGG?"
+	para "Beh, che dici, ti"
+	line "piacerebbe averlo"
+	cont "tutto per te?"
 
-	para "Then fine, this is"
-	line "yours to keep!"
+	para "Bene allora, trat-"
+	line "talo con cura!"
 	done
 ; 0x631a1
 
 UnknownText_0x631a1: ; 0x631a1
-	text "Come again."
+	text "Torna quando vuoi."
 	done
 ; 0x631ae
 
 UnknownText_0x631ae: ; 0x631ae
-	text "<PLAYER> received"
-	line "ODD EGG!"
+	text "<PLAYER> riceve"
+	line "lo strano uovo!"
 	done
 ; 0x631c3
 
 UnknownText_0x631c3: ; 0x631c3
-	text "I found that when"
-	line "I was caring for"
+	text "L'ho trovato"
+	line "mentre mi stavo"
 
-	para "someone's #MON"
-	line "before."
+	para "prendendo cura"
+	line "dei #mon di"
+	cont "un allenatore."
 
-	para "But the trainer"
-	line "didn't want the"
-
-	para "EGG, so I'd kept"
-	line "it around."
+	para "Ma quell'allenato-"
+	line "re non voleva"
+	cont "l'uovo, quindi"
+	cont "ho dovuto tenerlo"
+	cont "con me."
 	done
 ; 0x63237
 
 UnknownText_0x63237: ; 0x63237
-	text "You've no room for"
-	line "this."
+	text "Non hai spazio"
+	line "in squadra."
 	done
 ; 0x63250
 
