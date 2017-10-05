@@ -5,7 +5,7 @@ Questo è un disassembly modificato di Pokémon Cristallo [USA], creato per  Twi
 
 Per poter compilare questo repository, vedi l'[**INSTALL.md**](INSTALL.md).
 
-Sul forum [**Pokémon Hacking**][pokehacking] ho postato un topic in cui mostro degli screenshot e parlo del gioco e della traduzione [non aggiornato].
+Sul forum [**Pokémon Hacking**][pokehacking] ho postato un topic in cui mostro degli screenshot e parlo del gioco e della traduzione [non aggiornato all'ultima modifica].
 
 
 ## Potrebbero anche interessarti:
