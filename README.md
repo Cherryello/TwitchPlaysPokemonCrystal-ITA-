@@ -5,6 +5,8 @@ Questo è un disassembly modificato di Pokémon Cristallo [USA], creato per  Twi
 
 Per poter compilare questo repository, vedi l'[**INSTALL.md**](INSTALL.md).
 
+Sul forum [**Pokémon Hacking**][pokehacking] ho postato un topic in cui mostro degli screenshot e parlo del gioco e specificandone varie note [non aggiornato].
+
 
 ## Potrebbero anche interessarti:
 
@@ -21,3 +23,4 @@ E se il lavoro vi sta piacendo, potete anche offrirmi un piccolo [**caffè**][ka
 [tppcrystal]: https://github.com/TwitchPlaysPokemon/tppcrystal251pub
 [tgram]: https://t.me/joinchat/B4exBUG1pdpV4xLj2W_n3Q
 [kaffèé]: https://www.paypal.me/CherryFDC
+[pokehacking]: http://www.pokemonhacking.it/showthread.php?tid=4037
