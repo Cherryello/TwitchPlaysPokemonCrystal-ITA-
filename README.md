@@ -15,12 +15,8 @@ Sul forum [**Pokémon Hacking**][pokehacking] ho postato un topic in cui mostro 
 * Disassembly di [**Pokémon TPP Crystal**][tppcrystal]
 * Telegram: [**Gruppo Ufficiale della Traduzione**][tgram]
 
-------------------------------
-E se il lavoro vi sta piacendo, potete anche offrirmi un piccolo [**caffè**][kaffèé]. Grazie :')
-
 [pokered]: https://github.com/iimarckus/pokered
 [pokecrystal]: https://github.com/pret/pokecrystal
 [tppcrystal]: https://github.com/TwitchPlaysPokemon/tppcrystal251pub
 [tgram]: https://t.me/joinchat/B4exBUG1pdpV4xLj2W_n3Q
-[kaffèé]: https://www.paypal.me/CherryFDC
 [pokehacking]: http://www.pokemonhacking.it/showthread.php?tid=4037
